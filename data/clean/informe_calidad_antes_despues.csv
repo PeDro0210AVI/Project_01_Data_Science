@@ -1,0 +1,12 @@
+Metrica,Antes,Despues
+Registros,11868,11868.0
+Variables,18,23.0
+Valores faltantes (celdas),3828,25753.0
+% celdas faltantes,1.79,10.85
+Variables con NA,6,8.0
+Duplicados exactos (fila completa),0,0.0
+Duplicados exactos excluyendo CODIGO,181,385.0
+Posibles duplicados parciales (nombre similar),N/A (no evaluado),2001.0
+Variables con formato inconsistente corregido,3,0.0
+Variables con tipo incorrecto corregido,2,0.0
+Categorias inconsistentes unificadas,1,0.0
